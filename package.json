@@ -1,0 +1,15 @@
+{
+  "name": "duplicates",
+  "version": "0.0.1",
+  "author": "Kevin Alexander Martinez Montero",
+  "private": true,
+  "description": "Find and print out all the integers that are duplicated",
+  "scripts": {
+    "main": "node js/main.js",
+    "test": "mocha test/**/*spec.js"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
