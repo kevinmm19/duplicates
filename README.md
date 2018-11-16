@@ -24,6 +24,7 @@ The Duplicates class has the following structure:
 You can run the program from the command line like this (where N is the number parameter):
 * yarn main N
 * node js/main.js N
+
 You can run the tests from the command line like this:
 * yarn test
 
@@ -32,7 +33,7 @@ You can run the tests from the command line like this:
 * JavaScript ES6
 * Mocha
 * Chai
-* Yarn
+* Yarn / NPM
 
 ## Project Structure
 
@@ -40,10 +41,9 @@ You can run the tests from the command line like this:
     * main.js
 * test
     * duplicates-test-spec.js
-* node_modules
 * package.json
 * README.md
-* yarn.lock
+* LICENSE
 
 ## Build Version
 
